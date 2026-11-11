@@ -1,6 +1,6 @@
 # Proyecto Bethany · Salidas y mantenimiento
 
-Aplicación web para que las mamás residentes de **Proyecto Bethany** soliciten permiso para dormir fuera del hogar durante los fines de semana y reporten daños en su apartamento con la boleta de mantenimiento. La administración revisa, aprueba o atiende esas solicitudes y lleva un registro ordenado en Excel.
+Aplicación web llamada AppBethany para que las mamás residentes de **Proyecto Bethany** soliciten permiso para dormir fuera del hogar durante los fines de semana y reporten daños en su apartamento con la boleta de mantenimiento. La administración revisa, aprueba o atiende esas solicitudes y lleva un registro ordenado en Excel.
 
 🔗 **Página:** https://proyectobethany.github.io/proyectobethany/
 
